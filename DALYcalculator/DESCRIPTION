@@ -1,0 +1,12 @@
+Package: DALYcalculator
+Title: Calculates DALYs
+Version: 0.0.0.9000
+Authors@R:person("Joanna", "Emerson", email ="jemerson@tuftsmedicalcenter.org",
+	role = c('aut', 'cre'))
+Description: 
+	Calculates Disability-Adjusted Life Years for individuals or populations to quantify disease burden.
+	Outputs a vector of Years of Life Lost, Years Lived in Disease, and total DALYs 
+Depends: R (>= 3.4.1)
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 6.0.1
